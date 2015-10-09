@@ -11,9 +11,13 @@
   ],
   "license": "MIT",
   "authors": [
-    "Keith Wood"
+    "Keith Wood",
+    "Neslonso"
   ],
-  "main": "jquery.countdown.js",
+  "main": [
+    "jquery.plugin.js",
+    "jquery.countdown.js"
+  ]
   "ignore": [
     "*.gif",
     "*.html",
